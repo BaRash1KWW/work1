@@ -1,0 +1,13 @@
+node_modules
+instance
+*.db
+*.sqlite
+.env
+.env.*
+!.env.example
+.git
+coverage
+.DS_Store
+npm-debug.log
+docs/seo/before.png
+docs/seo/after.png

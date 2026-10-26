@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Не блокируем служебные HTML-страницы через robots.txt: поисковый робот должен прочитать noindex.
+# API отдаёт X-Robots-Tag: noindex, nofollow.
+Sitemap: https://example.com/sitemap.xml
